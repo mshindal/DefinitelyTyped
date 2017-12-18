@@ -11,6 +11,7 @@
 //                 Vito Samson <https://github.com/vitosamson>,
 //                 Karol Janyst <https://github.com/LKay>
 //                 Aaron Beall <https://github.com/aaronbeall>
+//                 Matt Shindala <https://github.com/mshindal>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.3
 
